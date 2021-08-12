@@ -29,7 +29,7 @@ IO分配：
 2. 原理图绘制界面左侧可以选择元器件，把需要的元器件都在原理图上放置好；
 3. 根据IO口的分配直接进行连线；
 
-![线路图](https://raw.githubusercontent.com/Lyunvy/picBed/master/picgo/20210812165633.png)
+![线路图](https://raw.githubusercontent.com/Lyunvy/picBed/master/picgo/20210812172415.png)
 ### 四、功能代码设计，每个功能块绘制出流程图
 程序包含的功能块：
 
@@ -58,12 +58,13 @@ IO分配：
 ### 五、运行效果展示
 1.仿真：
 
-![仿真1](https://raw.githubusercontent.com/Lyunvy/picBed/master/picgo/%E4%BB%BF%E7%9C%9F1.png)
+![仿真1](https://raw.githubusercontent.com/Lyunvy/picBed/master/picgo/20210812172416.png)
 
-![仿真2](https://raw.githubusercontent.com/Lyunvy/picBed/master/picgo/%E4%BB%BF%E7%9C%9F2.png)
+![仿真2](https://raw.githubusercontent.com/Lyunvy/picBed/master/picgo/20210812172417.png)
 
 2.实物：
 
-![实物1](https://raw.githubusercontent.com/Lyunvy/picBed/master/picgo/%E5%AE%9E%E7%89%A91.png)
+![实物1](https://raw.githubusercontent.com/Lyunvy/picBed/master/picgo/20210812172827.jpeg)
 
-![实物2](https://raw.githubusercontent.com/Lyunvy/picBed/master/picgo/%E5%AE%9E%E7%89%A92.png)
+![实物2](https://raw.githubusercontent.com/Lyunvy/picBed/master/picgo/20210812172419.jpg)
+
