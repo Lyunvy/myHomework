@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>新疆大学</title>
+        <base target="_top">
+    </head>
+    <body>
+        <table border="0" width="100%" cellspacinng="1" cellpadding="1">
+            <tr>
+                <td width="25%" align="center">  <!--表格的第一列显示一副图像-->
+                    <a href="https://www.xju.edu.cn"><img border="0" src="https://z3.ax1x.com/2021/03/21/65a1l8.jpg" width="20%"></a>
+                </td>
+                <td width="75%" align="center">  <!--表格的第二列显示文字-->
+                    <a style="text-decoration:none" href="https://www.xju.edu.cn"><font face="隶书" size="10">新疆大学欢迎您！</font></a>
+                    <p id="time" align="right"></p>     <!--Now Time-->
+                    <script>        //Get Time
+                        function mytime(){
+                            var a = new Date();
+                            var b = a.toLocaleTimeString();
+                            var c = a.toLocaleDateString();
+                            document.getElementById("time").innerHTML = c+"&nbsp"+b;
+                            }
+                        setInterval(function() {mytime()},1000);
+                    </script>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

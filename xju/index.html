@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>新疆大学</title>
+    </head>
+    <frameset rows="100,*">   <!--把浏览器窗口分成上下两个框架-->
+        <frame name="banner" scrolling="no" noresize src="index_top.html"></frame>  <!--上面框架显示网页index_top.html-->
+    <frameset cols="300,*">  <!--下面框架再分成左右两部分-->
+        <frame name="contents" target="main" src="index_left.html"></frame>  <!--左边框架名为contents，超链接目标框架为main-->
+        <frame name="main" src="gaiKuang.html" scrolling="yes" target="_self"></frame>  <!--右边框架名为main，超链接的目标框架为本身-->
+    </frameset>
+    </frameset>
+</html>
