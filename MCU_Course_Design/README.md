@@ -53,18 +53,18 @@ IO分配：
 - 功能实现中运用到定时器T0中断进行计时，在Timer0Interrupt(void) interrupt 1中断函数中进行使second0每加一实现加一秒的效果。
 - 主函数中对不同的按键采取不同的措施，实现设置闹钟的效果。
 
-![流程图](https://raw.githubusercontent.com/Lyunvy/picBed/master/picgo/20210812165830.png)
+![流程图](./src/liucheng.png)
 
 ### 五、运行效果展示
 1.仿真：
 
-![仿真1](https://raw.githubusercontent.com/Lyunvy/picBed/master/picgo/20210812172416.png)
+![仿真1](./src/s_kai.png)
 
-![仿真2](https://raw.githubusercontent.com/Lyunvy/picBed/master/picgo/20210812172417.png)
+![仿真2](./src/s_nao.png)
 
 2.实物：
 
-![实物1](https://raw.githubusercontent.com/Lyunvy/picBed/master/picgo/20210812172827.jpeg)
+![实物1](./src/%E5%AE%9E%E6%93%8D.jpg)
 
-![实物2](https://raw.githubusercontent.com/Lyunvy/picBed/master/picgo/20210812172419.jpg)
+![实物2](./src/%E5%AE%9E%E6%93%8D1.jpg)
 
