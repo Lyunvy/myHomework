@@ -29,7 +29,7 @@ IO分配：
 2. 原理图绘制界面左侧可以选择元器件，把需要的元器件都在原理图上放置好；
 3. 根据IO口的分配直接进行连线；
 
-![线路图](https://raw.githubusercontent.com/Lyunvy/picBed/master/picgo/20210812172415.png)
+![线路图](/src/s_zong.png)
 ### 四、功能代码设计，每个功能块绘制出流程图
 程序包含的功能块：
 
