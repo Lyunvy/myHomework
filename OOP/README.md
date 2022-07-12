@@ -21,7 +21,7 @@
 - void Hint() 输出提示信息成员函数; 
 - bool AddMess() 添加学生信息; 
 - void PrintMess() 查看所有学生信息; 
-- void FindMess() 查找（姓名||学号）; 
+- void FindMess() 查找（姓名 学号）; 
 - void SortMess() 排序;
 - InsertMess() 向中间插入学生数据; 
 - void DeteleMess() 删除学生的数据;
