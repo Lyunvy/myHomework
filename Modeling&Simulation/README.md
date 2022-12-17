@@ -1,3 +1,15 @@
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
+
 1. 下表是美国旧车价格调查资料，x表示车的使用年限，y表示相应价格(美元)，若已知 $y = \alpha e^{\beta x}$ ，试确定 $\alpha，\beta$ 的值。
 
 | x    | 1    | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10   |
