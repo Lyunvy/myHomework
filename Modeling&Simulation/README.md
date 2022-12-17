@@ -25,6 +25,7 @@
 ![运行结果2](./pic/2.png)
 
 3. 求解方程的解：
+
 $$
 \left\{ \begin{matrix}
 {\left. {\mathit{\sin}(}x - y \right) = 0} \\
@@ -46,6 +47,7 @@ $$
 ![运行结果4](./pic/4.png)
 
 5. 绘制Rossler方程的时域响应和相平面。
+
 $$
 \left\{ \begin{matrix}
 {{\overset{˙}{x}}_{1}(t) = - x_{2}(t) - x_{3}(t)} \\
@@ -61,6 +63,7 @@ $$
 ![运行结果5](./pic/5.png)
 
 6. 已知系统
+
 $$
 \overset{˙}{x} = \begin{bmatrix}
 0 & 1 \\
@@ -74,6 +77,7 @@ y = \begin{bmatrix}
 1 & 0 \\
 \end{bmatrix}x
 $$
+
 试求
 
   1. 试求其传递函数
