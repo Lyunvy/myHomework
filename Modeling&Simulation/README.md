@@ -50,9 +50,9 @@ $$
 
 $$
 \left\{ \begin{matrix}
-{{\overset{˙}{x}}_{1}(t) = - x_{2}(t) - x_{3}(t)} \\
-{{\overset{˙}{x}}_{2}(t) = x_{1}(t) + 0.2x_{2}(t)} \\
-{{\overset{˙}{x}}_{3}(t) = 0.2 + \left( x_{1}(t) - 5.7 \right)x_{3}(t)} \\
+{\overset{˙}{x}}_{1}(t) = - x_{2}(t) - x_{3}(t) \\
+{\overset{˙}{x}}_{2}(t) = x_{1}(t) + 0.2x_{2}(t) \\
+{\overset{˙}{x}}_{3}(t) = 0.2 + \left( x_{1}(t) - 5.7 \right)x_{3}(t) \\
 \end{matrix} \right.
 $$
 
