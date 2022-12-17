@@ -2,5 +2,5 @@ tf = 200;
 x0 = [0;0;0.0000001];
 [t,x] = ode45('m555_f',[0,tf],x0);
 
-figure(1);plot(t,x) % Ê±ÓòÏìÓ¦
-figure(2);plot3(x(:,1),x(:,2),x(:,3));grid on  % ÏàÆ½Ãæ
+figure(1);plot(t,x) % æ—¶åŸŸå“åº”
+figure(2);plot3(x(:,1),x(:,2),x(:,3));grid on  % ç›¸å¹³é¢

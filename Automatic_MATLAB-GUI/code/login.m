@@ -85,13 +85,13 @@ function pushbutton2_Callback(hObject, eventdata, handles)
 % hObject    handle to pushbutton2 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
-num=str2double(get(handles.edit1,'String'));%µÇÂ¼ÕËºÅ
-den=str2double(get(handles.edit2,'String'));%µÇÂ½ÃÜÂë
+num=str2double(get(handles.edit1,'String'));%ç™»å½•è´¦å·
+den=str2double(get(handles.edit2,'String'));%ç™»é™†å¯†ç 
 if(num==123&&den==123)
     close login;
     ben;
 else
-    errordlg('ÃÜÂë»òÓÃ»§Ãû²»ÕıÈ·')
+    errordlg('å¯†ç æˆ–ç”¨æˆ·åä¸æ­£ç¡®')
 end
 
 
